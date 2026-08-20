@@ -25,6 +25,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/new-york-life.png
 tags:
   - Insurance
+  - Financial-Services
+  - Life Insurance
+  - Wealth Management
+  - Fortune 100
+tags_raw:
+  - Insurance
   - Financial Services
   - Life Insurance
   - Wealth Management
