@@ -36,7 +36,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/new-york-life.png
 tags:
   - Insurance
-  - Financial-Services
+  - Financial Services
   - Life Insurance
   - Wealth Management
   - Fortune 100
@@ -46,6 +46,7 @@ tags_raw:
   - Life Insurance
   - Wealth Management
   - Fortune 100
+  - Financial-Services
 url: >-
   https://raw.githubusercontent.com/api-evangelist/new-york-life/refs/heads/main/apis.yml
 created: '2026-05-05'
